@@ -53,20 +53,24 @@ JSON (static data)
 
 ✅ Clean and organized code structure
 
-🖼️ Screenshots
+## 🖼️ Screenshots
 
-Note: Screenshots of every page are provided below as required.
+**Note:** Screenshots of every page are provided below as required.
 
-🔹 Job Listing Dashboard
+### 🔹 Job Listing Dashboard
 
-images\firstCard2025-12-26 110327.png
-images\secCard-12-26 110444.png
+![Job Listing Dashboard 1](images/firstCard2025-12-26%20110327.png)
+![Job Listing Dashboard 2](images/secCard-12-26%20110444.png)
 
 Description: Displays all job cards in a structured layout.
 
-🔹 Job Card Component
+---
 
-images\decrip12025-12-26 110553.png
-images\decr2025-12-26 110634.png
+### 🔹 Job Card Component
+
+![Job Card Description 1](images/decrip12025-12-26%20110553.png)
+![Job Card Description 2](images/decr2025-12-26%20110634.png)
+
+Description: Shows job title, description, company info, and avatar image.
 
 Description: Shows job title, description, company info, and avatar image.
